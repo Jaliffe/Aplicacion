@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lenov\\Desktop\\Programacion Parcial 3\\ServidorWeb\\Servidorweb\\ServidorWeb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lenov\\Desktop\\Programacion Parcial 3\\ServidorWeb\\Servidorweb\\ServidorWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lenov\\Desktop\\Programacion Parcial 3\\ServidorWeb\\Servidorweb\\ServidorWeb.csproj",
+        "projectName": "ServidorWeb",
+        "projectPath": "C:\\Users\\lenov\\Desktop\\Programacion Parcial 3\\ServidorWeb\\Servidorweb\\ServidorWeb.csproj",
+        "packagesPath": "C:\\Users\\lenov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenov\\Desktop\\Programacion Parcial 3\\ServidorWeb\\Servidorweb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lenov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

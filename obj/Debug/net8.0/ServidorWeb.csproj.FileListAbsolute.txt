@@ -1,0 +1,120 @@
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\appsettings.json
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\ServidorWeb.exe
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\ServidorWeb.deps.json
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\ServidorWeb.runtimeconfig.json
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\ServidorWeb.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\ServidorWeb.pdb
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.AssemblyInfoInputs.cache
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.AssemblyInfo.cs
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.csproj.CoreCompileInputs.cache
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\staticwebassets\msbuild.ServidorWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\staticwebassets\msbuild.build.ServidorWeb.props
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServidorWeb.props
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServidorWeb.props
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\scopedcss\bundle\ServidorWeb.styles.css
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.dll
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\refint\ServidorWeb.dll
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.pdb
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.genruntimeconfig.cache
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ref\ServidorWeb.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\DnsClient.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\SharpCompress.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\Snappier.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\ZstdSharp.dll
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Proyecto\ServidorWeb\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.csproj.AssemblyReference.cache
+C:\Proyecto\ServidorWeb\obj\Debug\net8.0\ServidorWeb.csproj.CopyComplete
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\appsettings.json
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.exe
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.deps.json
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.runtimeconfig.json
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.pdb
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\DnsClient.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\Snappier.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.csproj.AssemblyReference.cache
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.AssemblyInfoInputs.cache
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.AssemblyInfo.cs
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets\msbuild.ServidorWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets\msbuild.build.ServidorWeb.props
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServidorWeb.props
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServidorWeb.props
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\scopedcss\bundle\ServidorWeb.styles.css
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.csproj.CopyComplete
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\refint\ServidorWeb.dll
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.pdb
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.genruntimeconfig.cache
+C:\Users\lenov\Desktop\ServidorWeb\Servidorweb\obj\Debug\net8.0\ref\ServidorWeb.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\appsettings.json
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.exe
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.deps.json
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.runtimeconfig.json
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\ServidorWeb.pdb
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\DnsClient.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\Snappier.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.csproj.AssemblyReference.cache
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.AssemblyInfoInputs.cache
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.AssemblyInfo.cs
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets\msbuild.ServidorWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets\msbuild.build.ServidorWeb.props
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ServidorWeb.props
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ServidorWeb.props
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\scopedcss\bundle\ServidorWeb.styles.css
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.csproj.CopyComplete
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\refint\ServidorWeb.dll
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.pdb
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ServidorWeb.genruntimeconfig.cache
+C:\Users\lenov\Desktop\Programacion Parcial 3\ServidorWeb\Servidorweb\obj\Debug\net8.0\ref\ServidorWeb.dll
